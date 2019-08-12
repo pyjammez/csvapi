@@ -1,4 +1,4 @@
-API that parses CSV uploads and saves relevant to in-memory db.
+API that parses CSV uploads and saves relevant data to in-memory db.
 
 Based on: https://github.com/cefjoeii/mern-crud
 

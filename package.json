@@ -23,7 +23,7 @@
     "cors": "2.8.4",
     "express": "4.15.3",
     "express-rate-limit": "2.9.0",
-    "fast-csv": "^3.4.0",
+    "fast-csv": "^4.3.6",
     "fs": "0.0.1-security",
     "mongoose": "4.10.8",
     "mongoose-unique-validator": "1.0.5",
